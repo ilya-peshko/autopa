@@ -1,0 +1,4 @@
+/docker-compose.yml
+/docker-runtime
+/.idea
+/sites/default/settings.php
